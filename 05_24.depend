@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1401013918 source:/home/gintvile/C/05_24/main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<stdbool.h>
+
